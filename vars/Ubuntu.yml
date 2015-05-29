@@ -1,0 +1,5 @@
+---
+# vars file for drone (Ubuntu specific)
+
+drone_packages:
+  - libsqlite3-dev
